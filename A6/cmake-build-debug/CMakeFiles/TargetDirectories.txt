@@ -1,3 +1,0 @@
-/home/jonathan/Documents/INFT2503/A6/cmake-build-debug/CMakeFiles/A6.dir
-/home/jonathan/Documents/INFT2503/A6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jonathan/Documents/INFT2503/A6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
