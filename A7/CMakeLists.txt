@@ -3,4 +3,4 @@ project(A7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(A7 oppg1.cpp fraction.cpp fraction.hpp)
+add_executable(A7 oppg2.cpp Set.hpp)
